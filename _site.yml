@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Karoline Kondrup"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Karolines Hood"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -16,10 +16,10 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:kkt@clin.au.dk                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/kkt8000/YOURGITHUB.github.io/tree/master       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
